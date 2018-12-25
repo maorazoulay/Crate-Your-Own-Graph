@@ -12,7 +12,7 @@ The user is able to create a new vertex by clicking on the canvas.
   
 # Remove Vertex: 
 
-The user can remove a vertex from the canvas as well.
+The user can remove a vertex from the canvas.
 
 # Move Vertex:
 
